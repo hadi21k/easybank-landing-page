@@ -1,8 +1,8 @@
 import React from "react";
-import Currency from "../images/image-currency.jpg";
-import Restaurant from "../images/image-restaurant.jpg";
-import Plane from "../images/image-plane.jpg";
-import Confetti from "../images/image-confetti.jpg";
+import Currency from "../images/image-currency.webp";
+import Restaurant from "../images/image-restaurant.webp";
+import Plane from "../images/image-plane.webp";
+import Confetti from "../images/image-confetti.webp";
 
 const LatestSection = () => {
 	return (

@@ -1,4 +1,4 @@
-import Mockups from "../images/image-mockups.png";
+import Mockups from "../images/image-mockups.webp";
 import Bg from "../images/bg-intro-desktop.svg";
 
 const Main = () => {
