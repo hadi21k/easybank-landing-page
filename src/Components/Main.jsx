@@ -13,7 +13,7 @@ const Main = () => {
 			</div>
 			<div className="container z-10 flex flex-col-reverse items-center justify-center px-3 mx-auto space-y-8 md:flex-row md:space-y-0 md:space-x-12">
 				<div className="flex flex-col items-center justify-center w-1/2 py-6 space-y-3 md:items-start">
-					<div>
+					<div className="flex flex-col items-center md:items-start">
 						<h1 className="text-2xl font-bold dark-blue sm:text-4xl">
 							Next generation
 						</h1>
